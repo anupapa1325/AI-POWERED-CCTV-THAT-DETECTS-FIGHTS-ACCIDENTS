@@ -1,0 +1,3 @@
+Weapon detection is included as part of the violence detection module.
+The system can be trained to detect weapons like guns and knives using YOLOv8.
+This module is designed for future enhancement and scalability.
